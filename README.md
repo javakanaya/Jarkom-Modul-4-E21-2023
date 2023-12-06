@@ -18,6 +18,8 @@ Laporan Resmi Praktikum Jaringan Komputer Modul 4
 ### Pembagian IP
 <img width="389" alt="image" src="https://github.com/javakanaya/Jarkom-Modul-4-E21-2023/assets/87474722/e7fb3f19-903d-42da-ad7a-906a8bd40e75">
 
+### Konfigurasi Router dan Subneting
+[FigJam](https://www.figma.com/file/DgcGlrEGIXY9zW2NanXfeO/Jarkom-Modul4?type=whiteboard&node-id=17%3A520&t=pkGJpU2Z165fo5pB-1)
 
 ## CIDR
 
